@@ -10,4 +10,4 @@ contents.xcplayground
 Contents.swift
 
 # Only allow Git to track the Pages folder
-!**/Pages/
+!**/Pages/**/*.swift
