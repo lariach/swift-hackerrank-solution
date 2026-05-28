@@ -2,3 +2,12 @@
 .History/
 .xcodesamplescriptsource/
 xcuserdata/
+
+# Ignore Xcode Playground internal configuration files
+*.xcworkspace/
+*.contents.xcplayground
+contents.xcplayground
+Contents.swift
+
+# Only allow Git to track the Pages folder
+!**/Pages/
